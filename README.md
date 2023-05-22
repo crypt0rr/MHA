@@ -1,7 +1,7 @@
 MHA
 =====
 
-**NOTE** This fork is as-is hosted with [CloudFlare Pages] (https: //pages.cloudflare.com/) at [mha.offsec.nl] (<https://mha.offsec.nl/>).
+**NOTE** This fork is as-is hosted with [CloudFlare Pages](https://pages.cloudflare.com/) at [mha.offsec.nl](https://mha.offsec.nl/).
 
 -----
 

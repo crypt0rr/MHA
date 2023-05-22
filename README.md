@@ -1,6 +1,10 @@
 MHA
 =====
 
+**NOTE** This fork is as-is hosted with [CloudFlare Pages] (https: //pages.cloudflare.com/) at [mha.offsec.nl] (<https://mha.offsec.nl/>).
+
+-----
+
 Message Header Analyzer mail app.
 
 This is the source for the Message Header Analyzer. Install the app from the store here:
@@ -12,17 +16,17 @@ Installation Procedure
 Because MHA requires the ReadWriteMailbox permission it can only be installed by the Administrator through the Exchange admin center or by a user as a custom addon. Here are some steps I put together:
 
 1. In Office365, go to the Exchange Admin Center.
-1. Click on the Organization tab
-1. From there, select the add-ins tab
-1. Click the Plus icon/Add from the Office Store
-1. Click the Plus icon/Add from the Office Store
-1. A new page will load for the store
-1. Search for "Message Header Analyzer"
-1. Choose MHA in the results
-1. Click Add
-1. Confirm by clicking Yes
-1. Back in the Exchange Admin Center, refresh the list of add-ins
-1. You can now edit who the add-in is available for
+2. Click on the Organization tab
+3. From there, select the add-ins tab
+4. Click the Plus icon/Add from the Office Store
+5. Click the Plus icon/Add from the Office Store
+6. A new page will load for the store
+7. Search for "Message Header Analyzer"
+8. Choose MHA in the results
+9. Click Add
+10. Confirm by clicking Yes
+11. Back in the Exchange Admin Center, refresh the list of add-ins
+12. You can now edit who the add-in is available for
 
 A Note on Permissions
 -----
@@ -48,6 +52,7 @@ Mobile
 For both IOS and Android click open an email, then press the three dots under the date. There you should see the MHA icon. See [outlook-mobile-addins](https://learn.microsoft.com/en-us/office/dev/add-ins/outlook/outlook-mobile-addins) page for more details.
 
 Development & Custom Deployment
+
 ======
 
 Install and prereqs

@@ -1,5 +1,8 @@
 MHA
 =====
+[![OpenSSF
+Scorecard](https://api.securityscorecards.dev/projects/github.com/microsoft/MHA/badge)](https://api.securityscorecards.dev/projects/github.com/microsoft/MHA)  
+[![OpenSSF Best Practices](https://bestpractices.coreinfrastructure.org/projects/7511/badge)](https://bestpractices.coreinfrastructure.org/projects/7511)
 
 **NOTE** This fork is as-is hosted with [CloudFlare Pages](https://pages.cloudflare.com/) at [mha.offsec.nl](https://mha.offsec.nl/).
 
